@@ -4,7 +4,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-### Web designer and developer with a passion for creating aesthetic and impactful digital experiences.
+### A web designer and developer with a passion for creating aesthetic and impactful digital experiences.
 
 - 🔭 General
 - 🚀 Continuously expanding knowledge and exploring new emerging technologies.
