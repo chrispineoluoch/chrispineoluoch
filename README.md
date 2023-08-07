@@ -15,8 +15,9 @@
 
 ### Connect with me on LinkedIn:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/chrispineoluoch#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/chrispineoluoch#gh-dark-mode-only)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist](./img/linkedin-light.svg)](https://linkedin.com/in/chrispineoluoch#gh-light-mode-only)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist](./img/linkedin-dark.svg)](https://linkedin.com/in/chrispineoluoch#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
