@@ -4,19 +4,19 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a web designer and web developer with a passion for creating aesthetic and impactful digital experiences for users.
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🔭 General
+- 🚀 Continuously expanding knowledge and exploring new emerging technologies.
+- 🎯 Driven by the desire to leverage technology to drive positive social impact.
+- ⚡ Committed to crafting elegant front-end designs and robust back-end architecture systems.
+- 📈 Harnessing the power of data analytics to drive actionable insights for data-led decisions in web development.
+- 🥅 2023 Goals: To continuously learn more about PHP, ASP.NET and various CMS.
 
-### Connect with me:
+### Connect with me on LinkedIn:
 
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/chrispineoluoch#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/chrispineoluoch#gh-dark-mode-only)
 
 ### Languages and Tools:
 
