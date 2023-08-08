@@ -6,15 +6,11 @@
 
 ### A web designer and developer with a passion for creating aesthetic and impactful digital experiences.
 
-- 🔭 General
 - 🚀 Continuously expanding knowledge and exploring new emerging technologies.
 - 🎯 Driven by the desire to leverage technology to drive positive social impact.
 - ⚡ Committed to crafting elegant front-end designs and robust back-end architecture systems.
 - 📈 Harnessing the power of data analytics to drive actionable insights for data-led decisions in web development.
 - 🥅 2023 Goals: To continuously learn more about PHP, ASP.NET and various CMS.
-
-### Connect with me on LinkedIn: <span style="position: relative; top: 4px; left: 8px;">[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)</span> <span style="position: relative; top: 4px; left: 8px;">[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)</span>
-
 
 ### Languages and Tools:
 
