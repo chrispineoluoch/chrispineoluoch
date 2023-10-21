@@ -6,7 +6,7 @@
 - 🎯 Driven by the desire to leverage technology to drive positive social impact.
 - ⚡ Committed to crafting elegant front-end designs and robust back-end architecture systems.
 - 📈 Harnessing the power of data analytics to drive actionable insights for data-led decisions in web development.
-- 🥅 2023 Goals: To continuously learn more about PHP, ASP.NET and various CMS.
+- 🥅 2023 Goals: To continuously learn more about PHP, Python, and various CMS.
 
 ### Languages and Tools:
 
