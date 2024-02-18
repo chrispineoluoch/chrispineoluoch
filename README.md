@@ -1,18 +1,19 @@
 # Hi there, My name is Chrispine Oluoch 👋 
 
-### A web designer and developer with a passion for creating aesthetic and impactful digital experiences.
+### A software engineer and data scientist with a passion for creating aesthetic and impactful digital experiences.
 
 - 🚀 Continuously expanding knowledge and exploring new emerging technologies.
 - 🎯 Driven by the desire to leverage technology to drive positive social impact.
 - ⚡ Committed to crafting elegant front-end designs and robust back-end architecture systems.
 - 📈 Harnessing the power of data analytics to drive actionable insights for data-led decisions in web development.
-- 🥅 2023 Goals: To continuously learn more about PHP, Python, and various CMS.
+- 🥅 2024 Goals: To continuously learn more about Python, Data Science and various CMS.
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Dot Net" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
