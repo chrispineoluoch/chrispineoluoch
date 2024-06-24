@@ -6,7 +6,7 @@
 - 🎯 Driven by the desire to leverage technology to drive positive social impact.
 - ⚡ Committed to crafting elegant front-end designs and robust back-end architecture systems.
 - 📈 Harnessing the power of data analytics to drive actionable insights for data-led decisions in web development.
-- 🥅 2024 Goals: To continuously learn more about Python, Data Science and various CMS.
+- 🥅 2024 Goals: To continuously learn more about ASP.NET, Python, PHP, Data Science, and various CMS.
 
 ### Languages and Tools:
 
