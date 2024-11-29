@@ -1,12 +1,15 @@
 # Hi there, My name is Chrispine Oluoch 👋 
 
-### A software engineer and data scientist with a passion for creating aesthetic and impactful digital experiences.
+### A software engineer and data scientist passionate about creating aesthetic and impactful digital experiences.
 
-- 🚀 Continuously expanding knowledge and exploring new emerging technologies.
-- 🎯 Driven by the desire to leverage technology to drive positive social impact.
-- ⚡ Committed to crafting elegant front-end designs and robust back-end architecture systems.
-- 📈 Harnessing the power of data analytics to drive actionable insights for data-led decisions in web development.
-- 🥅 2024 Goals: To continuously learn more about ASP.NET, Python, PHP, Data Science, and various CMS.
+- 🚀 Continuously expanding knowledge and exploring new emerging technologies and trends.
+- 🎯 Dedicated to leveraging technology for sustainable development and meaningful social impact.
+- ⚡ Expert in crafting seamless front-end experiences and architecting scalable, reliable back-end system architectures.
+- 📈 Harnessing the power of data analytics like Pandas, NumPy, and Scikit-learn to unlock actionable insights for data-led decisions.
+- 🔍 Building data visualizations and interactive dashboards with tools like Tableau, Power BI, Matplotlib, and ChartJS.
+- 🌟 Multilingual developer with expertise in ASP.NET, PHP Laravel, Python, and modern frameworks for enterprise-grade solutions.
+- 🚢 Proficient in deploying full-stack applications and machine learning models, ensuring scalability and performance optimization.
+- 🥅 2025 Goals: To deepen expertise in system development, integrate advanced Machine Learning solutions, and refine DevOps strategies for efficient workflows
 
 ### Languages and Tools:
 
