@@ -7,7 +7,7 @@
 - ⚡ Expert in crafting seamless front-end experiences and architecting scalable, reliable back-end system architectures.
 - 🌟 Multilingual developer with expertise in ASP.NET, PHP Laravel, Python, and modern frameworks like React JS for enterprise-grade solutions.
 - 📈 Harnessing the power of data analytics like Pandas, NumPy, and Scikit-learn to unlock actionable insights for data-led decisions.
-- 🔍 Building data visualizations and interactive dashboards with tools like Tableau, Power BI, Matplotlib, and ChartJS.
+- 🔍 Building data visualizations and interactive dashboards with tools like Tableau, Power BI, Matplotlib, and Chart JS.
 - 🚢 Proficient in deploying full-stack applications and machine learning models, ensuring scalability and performance optimization.
 - 🥅 2025 Goals: To deepen expertise in system development, integrate advanced Machine Learning solutions, and refine DevOps strategies for efficient workflows
 
