@@ -5,7 +5,7 @@
 - 🚀 Continuously expanding knowledge and exploring new emerging technologies and trends.
 - 🎯 Dedicated to leveraging technology for sustainable development and meaningful social impact.
 - ⚡ Expert in crafting seamless front-end experiences and architecting scalable, reliable back-end system architectures.
-- 🌟 Multilingual developer with expertise in ASP.NET, PHP Laravel, Python, and modern frameworks like ReactJS for enterprise-grade solutions.
+- 🌟 Multilingual developer with expertise in ASP.NET, PHP Laravel, Python, and modern frameworks like React JS for enterprise-grade solutions.
 - 📈 Harnessing the power of data analytics like Pandas, NumPy, and Scikit-learn to unlock actionable insights for data-led decisions.
 - 🔍 Building data visualizations and interactive dashboards with tools like Tableau, Power BI, Matplotlib, and ChartJS.
 - 🚢 Proficient in deploying full-stack applications and machine learning models, ensuring scalability and performance optimization.
